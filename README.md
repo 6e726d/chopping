@@ -26,6 +26,8 @@ Perform channel hopping using interface wlan0 on channels 1,6,11 and 56.
 
 $ sudo chopping -i wlan0 -c 1,6,11,56
 
+![usage_example_image](https://i.imgur.com/qRhSiofg.png "Usage Example Image")
+
 ## Authors
 
 * **Andrés Blanco** (6e726d)
